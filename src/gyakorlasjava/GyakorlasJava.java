@@ -12,5 +12,8 @@ public class GyakorlasJava {
             
         }
     }
+    private static void metodus(){
+      System.out.println("statikus metódus);  
+    };
     
 }
