@@ -8,7 +8,7 @@ public class GyakorlasJava {
         for (int i = 0; i < 10; i++) {
             
         }
-        if (true) {
+        if (false) {
             
         }
     }
